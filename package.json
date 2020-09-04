@@ -35,7 +35,7 @@
     "jquery": "^3.2.1",
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
-    "node-sass": "^4.5.0",
+    "node-sass": "^4.13.1",
     "purify-css": "^1.2.5",
     "purifycss-webpack": "^0.7.0",
     "sass-loader": "^6.0.0",
